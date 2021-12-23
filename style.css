@@ -1,0 +1,25 @@
+body{
+	
+	background-repeat: no-repeat;
+    background-size: 10vh;
+    
+    width: 250vh;
+
+}
+.menyu{
+	background: url(surat/31.jpg);
+	background-repeat: no-repeat;
+
+	height: 8000vh;
+	width: 500px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+#panel{
+	border: 4px solid red;
+	height: 99vh;
+	width: 900px;
+
+}
+
+
